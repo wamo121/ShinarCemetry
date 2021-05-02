@@ -1,0 +1,12 @@
+h1{
+    color:brown
+}
+.row{
+    margin:auto;
+    height:5%; overflow:auto ;
+    max-width:200px;
+    word-break:normal;
+}
+.tr{
+    word-wrap:break-word;
+}
